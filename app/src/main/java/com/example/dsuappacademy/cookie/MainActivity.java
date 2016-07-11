@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
         textView.setText("I'm full");
     }
 
-    
+
     //Reset button code
     public void resetButton(View view) {
         imageView = (ImageView) findViewById(R.id.android_cookie_image_view);
